@@ -39,7 +39,6 @@ L'applicazione calcola automaticamente:
 ### Strumenti di Sviluppo
 
 - **Angular CLI 20.0.5** - Tool da riga di comando per lo sviluppo
-- **Jasmine & Karma** - Framework per unit testing
 - **TypeScript Compiler** - Compilazione del codice TypeScript
 - **Prettier** - Formattazione automatica del codice
 
